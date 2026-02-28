@@ -183,12 +183,13 @@
         },
         "input_spec": null,
         "output_spec": null,
+        "playbook_trigger": "artifact_created",
         "playbook_type": "automation",
-        "python_version": "3",
+        "python_version": "3.13",
         "schema": "5.0.5",
-        "version": "5.2.1.78411"
+        "version": "8.4.0.166"
     },
-    "create_time": "2022-04-06T23:08:20.767283+00:00",
+    "create_time": "2026-02-28T03:00:24.220663+00:00",
     "draft_mode": false,
     "labels": [
         "events"
